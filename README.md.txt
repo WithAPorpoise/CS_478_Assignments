@@ -1,0 +1,1 @@
+This is the repository for my cs 478: Deep Learning class assignments.
